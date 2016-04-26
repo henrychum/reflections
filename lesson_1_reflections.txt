@@ -1,0 +1,21 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It made it easier to view the differences. This makes it easier to view the mistakes between old and new versions of code.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+If you happened to lose the code for the most updated version, then you could refer back to the older version and start from there instead of building it back from scratch. It's like a checkpoint in a game.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Commit Pros: You have control when to save it (if you remember to) and you add a comment to it as to why you made the changes. Commit cons: You might forget to save it and you have to use your judgment when to save it and if you make the wrong judgment call, then you'll make your commits all jumbled and confusing.
+Google Doc Pros: Saves it for you so you don't need to remember to save it (for lazy people). Google Doc Cons: If you make a lot of changes, it gets hard to press undo to change it back if you mess up.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+For one thing, Google Doc is something like Microsoft Word online. It's used by many students who collaborate with each other on assignments. Git, on the other hand, is made specifically for people who want to save multiple files at the same time since those files when put together create a game or some sort of software that counts on all the files put together to run. 
+
+How can you use the commands git log and git diff to view the history of files?
+Git log shows all the saves and gives you the commit code that you can you git diff to compare the differences between the two saves. The commit code is what allows a user to basically go back to that last save and see what code was written. By comparing the two different codes you can see the changes were made; like referring to the past. 
+
+How might using version control make you more confident to make changes that could break something?
+You can quickly go back to the log and refer back to your code to see what changes broke the code. It's super handy and a great way to save yourself a ton of time rewriting your code especially if you are short on time or this is a project for work that must not fail.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I am going to save the work that I've done on my projects on different websites and make bold changes to them without having the fear of completely tearing the site apart, breaking the code.

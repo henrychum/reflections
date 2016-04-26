@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+It gets me closer to saving the repository allowing me to save my work. I need to do it because saving my work is essential in programming if you want to get creative and bold. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It acts as a an in-between place from working directory and repository so you can sort out your files on what you want to make into a reposity from your working directory. It offers almost like a loading zone before the cargo gets to the store kind of deal, to allow the luxury of choosing which cargo goes where. 
