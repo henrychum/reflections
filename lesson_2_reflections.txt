@@ -3,3 +3,18 @@ It gets me closer to saving the repository allowing me to save my work. I need t
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It acts as a an in-between place from working directory and repository so you can sort out your files on what you want to make into a reposity from your working directory. It offers almost like a loading zone before the cargo gets to the store kind of deal, to allow the luxury of choosing which cargo goes where. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can put the files you want to commit into the staging area, then use git diff --staged to see the difference between your most current repository and staged files. From there you can assess whether or not it was a logical change or just a minor change you don't need to commit yet.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+They essentially let you make multiple versions of the code without having to mess with your main version of the code, like maybe a spin-off version of the code with just a few changes compared to the main version code.
+
+How do the diagrams help you visualize the branch structure?
+They show me when the commits were made and when the branches started forming on which commit making it easier to know what changes are where.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Both the commits and changes are combined and both the work of the people are collaborated. The diagram that was represented that way because it is the easiest to understand that they had a common parent before the split and now they are merged again.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+If it is straightforward and dont overlap then automatic merging is perfect but if they do create merging conflicts then it would be better to have more control on what change is to be displayed.
