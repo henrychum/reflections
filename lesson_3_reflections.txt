@@ -3,3 +3,6 @@ In case you lose your computer or your computer somehow stops working, you can k
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because if someone else working on your project on github but you also want to work on your local repository, the constant updates could create problems with your work.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is a way to clone a repository on GitHub to your own profile; it is only for GitHub. Clone is a way to 'clone' a respository in general, whether it is local to local or remote to local. Branching is a way to stray away from the 'main project' you're working on at that point to try something different on the same project. 
