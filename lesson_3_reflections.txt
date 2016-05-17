@@ -9,3 +9,6 @@ Fork is a way to clone a repository on GitHub to your own profile; it is only fo
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It is always nice to have a copy of the remote saved locally because there you will always be able to refer to it or be able to merge with it when you are done working on your portion of the project on your own branch. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would have someone else use my laptop whenever they would want to make changes. Yes this would be harder to do without Git and GitHub because Git and GitHub allows users to share copies of their work through the internet. It's basically a social network for programmers.
