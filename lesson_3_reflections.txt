@@ -12,3 +12,6 @@ It is always nice to have a copy of the remote saved locally because there you w
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would have someone else use my laptop whenever they would want to make changes. Yes this would be harder to do without Git and GitHub because Git and GitHub allows users to share copies of their work through the internet. It's basically a social network for programmers.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A separate branch would allow you to work with your existing code without having to directly affect master. Maybe you're just trying something out. Only when you're sure that this new code from the new branch works then you can consider merging this and the master branch together. Working on master directly has the benefit of not having to create a new branch and just doing everything you need to do on the master and moving on without wasting much time. 
